@@ -75,6 +75,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Magda](https://github.com/magda-io/magda) - A federated, open-source data catalog for all your big data and small data.
 * [Metacat](https://github.com/Netflix/metacat) - Unified metadata exploration API service for Hive, RDS, Teradata, Redshift, S3 and Cassandra.
 * [OpenMetadata](https://open-metadata.org/) - A Single place to discover, collaborate and get your data right.
+* [Upgini](https://github.com/upgini/upgini/blob/main/README.md#upgini--dataset-search-library-for-your-machine-learning-pipelines) - A python library for an automated useful dataset search to boost supervised ML tasks.
 
 ## Data Exploration
 
